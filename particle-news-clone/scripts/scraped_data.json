@@ -1,55 +1,10 @@
 [
   {
-    "slug": "gracie-mansion-ieds-investigated-as-isis-inspired-two-pennsylvania-suspects-face-federal-case",
-    "title": "Gracie Mansion IEDs Investigated as ISIS-Inspired; Two Pennsylvania Suspects Face Federal Case",
-    "summary": "Investigators report TATP in a jar-style device, with the FBI and SDNY leading a terrorism probe.",
-    "category": "Police Response",
-    "image_url": "https://storage.googleapis.com/particle-media-production/cluster-images/13735421/1741573037580.jpg",
-    "article_count": "14 ARTICLES",
-    "content": {
-      "key_takeaways": [
-        "Police confirmed at least one ignited device thrown near Mayor Zohran Mamdani’s residence was an improvised explosive capable of causing serious injury or death.",
-        "Two suspects from Pennsylvania have been arrested and are facing federal charges in connection with the incident.",
-        "The investigation is being led by the FBI and the Southern District of New York, focusing on potential ISIS inspiration.",
-        "The devices contained TATP, a highly volatile and dangerous explosive material often associated with terrorist plots."
-      ],
-      "source_articles": [
-        {"name": "The New York Times", "logo_url": "https://particle.news/logos/nyt.png"},
-        {"name": "CNN", "logo_url": "https://particle.news/logos/cnn.png"}
-      ],
-      "influence": [
-        {"name": "Jessica Tisch", "quote": "We are treating this as a serious threat to the safety of our city."}
-      ],
-      "why_it_matters": "A direct threat to the city's mayor and the use of volatile explosives indicate an escalation in local security risks and potential domestic terrorism."
-    }
-  },
-  {
-     "slug": "trump-sends-mixed-signals-on-iran-war-as-tehran-rejects-diplomacy-and-regional-strikes-expand",
-     "title": "Trump Sends Mixed Signals on Iran War as Tehran Rejects Diplomacy and Regional Strikes Expand",
-     "summary": "Global oil prices topped $100, reflecting the conflict’s fast‑expanding threat to energy flows.",
-     "category": "Politics",
-     "image_url": "https://storage.googleapis.com/particle-media-production/cluster-images/13749421/1741573037580.jpg",
-     "article_count": "42 ARTICLES",
-     "content": {
-       "key_takeaways": [
-         "President Trump issued conflicting statements regarding potential military action against Iran, causing market volatility.",
-         "Tehran has officially rejected recent diplomatic overtures, citing continued regional strikes as a barrier to dialogue.",
-         "Global oil prices surged past $100 per barrel for the first time in months amidst the increasing uncertainty.",
-         "The conflict continues to expand regionaly with strikes reported in multiple locations across the Middle East."
-       ],
-       "source_articles": [
-         {"name": "Reuters", "logo_url": "https://particle.news/logos/reuters.png"},
-         {"name": "Wall Street Journal", "logo_url": "https://particle.news/logos/wsj.png"}
-       ],
-       "why_it_matters": "The potential for a large-scale conflict in the Middle East has immediate and severe implications for global energy markets and international security."
-     }
-  },
-  {
     "slug": "purported-iphone-fold-cad-renders-emerge-as-report-cites-higher-initial-production-target",
     "title": "Purported iPhone Fold CAD Renders Emerge as Report Cites Higher Initial Production Target",
     "summary": "Leaked CAD renders suggest Apple is progressing with its foldable iPhone design, with production targets exceeding initial expectations.",
     "category": "Technology",
-    "image_url": "https://storage.googleapis.com/particle-media-production/cluster-images/13725421/1741573037580.jpg",
+    "image_url": "https://storage.googleapis.com/uploads.mongoosehq.com/url/media/111607346/7b9e58981b173ec69c58107fb209c882ee73dd1792d98f5cc98cc688ac56885e",
     "article_count": "28 ARTICLES",
     "content": {
       "key_takeaways": [
@@ -60,92 +15,110 @@
       ],
       "multi_source_summary": [
         "The leak consolidates months of reporting that Apple's first foldable targets a fall 2026 debut at ultra‑premium pricing.",
-        "Longtime leaker Sonny Dickson posted 3D CAD images showing a wider, book‑style foldable with a horizontal two‑camera rear bar and punch‑hole selfie cameras.",
-        "Multiple outlets reiterate rumored displays of roughly 7.8 inches on the inside and about 5.3–5.5 inches for the cover screen with a more usable, less square aspect ratio.",
-        "Bloomberg reporting ties the device to a fall 2026 launch alongside the iPhone 18 lineup, with ‘Ultra’‑tier positioning and pricing expected at roughly $2,000 or more.",
-        "Taiwan Economic Daily, via tech reports, says Apple increased initial iPhone Fold production targets by about 20%, as rumors point to a liquid‑metal hinge, a titanium frame, near‑crease‑free glass, side‑mounted Touch ID, and high‑end internals."
+        "Longtime leaker Sonny Dickson posted 3D CAD images showing a wider, book‑style foldable with a horizontal two‑camera rear bar.",
+        "Multiple outlets reiterate rumored displays of roughly 7.8 inches on the inside and about 5.3–5.5 inches for the cover screen."
       ],
       "media_stack": [
         "https://storage.googleapis.com/uploads.mongoosehq.com/url/media/111607346/7b9e58981b173ec69c58107fb209c882ee73dd1792d98f5cc98cc688ac56885e",
-        "https://storage.googleapis.com/uploads.mongoosehq.com/url/media/111648959/324e0b66db41799b67747259868c3b1234351cfe497c34c0ad597b7e7d09ded0",
-        "https://storage.googleapis.com/uploads.mongoosehq.com/url/media/111458053/907a87012029f569e3a1f6ad910a1294b5d4c828995dfe59cbe09b19020459ad",
-        "https://storage.googleapis.com/uploads.mongoosehq.com/url/media/111607346/13a69c1de22a84c84823b68f33bc7b8ffe40b7e66a0c74a27e04c91a65b0c26f",
-        "https://storage.googleapis.com/uploads.mongoosehq.com/url/media/111726456/95ee346741135a645f987f0cee13026fce279588683c03915a8ebbe4bcd5c86c"
-      ],
-      "quotes": [
-        {
-          "author": "Mark Gurman",
-          "text": "“...a more significant shift underway toward higher-end fare — what I’d describe as ‘Ultra’ products, such as next-generation AirPods and a high-end MacBook Pro with touchscreen”",
-          "context": "Discussing Apple's shift towards higher-end products in his newsletter."
-        },
-        {
-          "author": "Forbes",
-          "text": "“Apple is actively working on such a device, with a release potentially scheduled for fall 2026”",
-          "context": "In discussing the rumors surrounding the foldable iPhone."
-        },
-        {
-          "author": "Sonny Dickson",
-          "text": "“Apple is expected to change that”",
-          "context": "Referring to the anticipated design changes in foldable phones based on a recent CAD leak."
-        },
-        {
-          "author": "Android Headlines",
-          "text": "“Needless to say this should be taken with a grain of salt for now”",
-          "context": "Advising caution regarding the rumors about the iPhone Fold's release and features."
-        },
-        {
-          "author": "9to5Mac",
-          "text": "“...the design lines up with what recent rumors have been saying about the hardware”",
-          "context": "Referring to the alignment of the CAD renders with existing rumors."
-        }
+        "https://storage.googleapis.com/uploads.mongoosehq.com/url/media/111648959/324e0b66db41799b67747259868c3b1234351cfe497c34c0ad597b7e7d09ded0"
       ],
       "source_articles": [
-        {"name": "MacRumors", "logo_url": "https://particle.news/logos/macrumors.png"},
-        {"name": "9to5Mac", "logo_url": "https://particle.news/logos/9to5mac.png"}
+        {"name": "Forbes", "logo_url": "https://storage.googleapis.com/uploads.mongoosehq.com/publication-icons/forbes-logo.jpeg"},
+        {"name": "Mashable", "logo_url": "https://storage.googleapis.com/uploads.mongoosehq.com/publication-icons/mashable-apple-touch-logo.png"}
       ],
-      "why_it_matters": "The leak consolidates months of reporting that Apple's first foldable targets a fall 2026 debut at ultra‑premium pricing, signaling a significant shift toward higher-end 'Ultra' products."
+      "why_it_matters": "Apple's entry into the foldable phone market would be a major milestone, potentially defining the future of mobile hardware design."
     }
   },
   {
-    "slug": "bitcoin-rebounds-to-69000-as-oil-retreats-and-etf-inflows-slow",
-    "title": "Bitcoin Rebounds to $69,000 as Oil Retreats and ETF Inflows Slow",
-    "summary": "Traders tied the snapback to reports of a potential G7–IEA reserve release that eased energy‑shock concerns.",
-    "category": "Bitcoin",
-    "image_url": "https://storage.googleapis.com/particle-media-production/cluster-images/13748625/1741573037580.jpg",
-    "article_count": "12 ARTICLES",
+    "slug": "woman-booked-on-attempted-murder-after-gunfire-hits-rihannas-beverly-hills-home",
+    "title": "Woman Booked on Attempted Murder After Gunfire Hits Rihanna’s Beverly Hills Home",
+    "summary": "Police have arrested a suspect after multiple shots were fired at the celebrity's residence in an apparent targeted incident.",
+    "category": "Breaking News",
+    "image_url": "https://storage.googleapis.com/uploads.mongoosehq.com/url/media/111648928/7e21ed6310d78b247b8980f99b9130c2d63d434292304879929e9190a294fbf7",
+    "article_count": "15 ARTICLES",
     "content": {
       "key_takeaways": [
-        "Bitcoin price recovered significantly, swinging from lows near $65,000 back to the $69,000 level.",
-        "Crude oil prices cooled below $100 after news of a potential strategic reserve release by G7 and IEA nations.",
-        "Weekly crypto fund inflows slowed to $619 million, indicating a cautionary stance from institutional investors.",
-        "Market analysts characterize the recent action as high-beta risk behavior, driven by broader macroeconomic shifts."
+        "A woman has been booked on attempted murder charges after firing shots at Rihanna's Beverly Hills mansion.",
+        "No injuries were reported as the singer was reportedly not at home during the incident.",
+        "Police are investigating the motive, with initial reports suggesting a targeted attack rather than a random act."
+      ],
+      "media_stack": [
+        "https://storage.googleapis.com/uploads.mongoosehq.com/url/media/111648928/7e21ed6310d78b247b8980f99b9130c2d63d434292304879929e9190a294fbf7"
       ],
       "source_articles": [
-        {"name": "CoinDesk", "logo_url": "https://particle.news/logos/coindesk.png"},
-        {"name": "CNBC", "logo_url": "https://particle.news/logos/cnbc.png"}
+        {"name": "TMZ", "logo_url": "https://static.tmz.com/tmz-web/icons/apple-touch-icon-180x180-v1.png"},
+        {"name": "Hindustan Times", "logo_url": "https://www.hindustantimes.com/res/images/icons/icon-512x512.png"}
       ],
-      "why_it_matters": "Bitcoin's price movement continues to act as a barometer for global risk appetite and sensitivity to energy market instability."
+      "why_it_matters": "The incident highlights ongoing security concerns for high-profile celebrities in the Los Angeles area."
     }
   },
   {
-    "slug": "reviews-validate-big-leaps-for-m5-macbook-pros-and-m4-ipad-air-as-ultra-plans-emerge",
-    "title": "Reviews Validate Big Leaps for M5 MacBook Pros and M4 iPad Air as Ultra Plans Emerge",
-    "summary": "Early verdicts highlight Apple’s focus on speed, storage and connectivity upgrades this cycle.",
-    "category": "Technology",
-    "image_url": "https://storage.googleapis.com/particle-media-production/cluster-images/13745421/1741573037580.jpg",
-    "article_count": "35 ARTICLES",
+    "slug": "dhs-shutdown-triggers-multi-hour-tsa-lines-at-major-airports",
+    "title": "DHS Shutdown Triggers Multi‑Hour TSA Lines at Major Airports",
+    "summary": "Travelers face massive delays across the country as the Department of Homeland Security shutdown impacts airport security operations.",
+    "category": "National",
+    "image_url": "https://storage.googleapis.com/uploads.mongoosehq.com/url/media/111694787/ccf38eda3dee32b499fb7c124b6f1fc1e8999cc29e719a65a8ff4a54052b3ab0",
+    "article_count": "32 ARTICLES",
     "content": {
       "key_takeaways": [
-        "First reviews for the M5 MacBook Pro highlight massive gains in multi-threaded workflows and AI processing.",
-        "The M4 iPad Air is being hailed as the 'sweet spot' for most users, offering Pro-level speed in a thinner chassis.",
-         "New reports suggest Apple is preparing an 'Ultra' tier chip for the Mac Studio and Mac Pro line for an autumn release.",
-         "The updated hardware features Tandem OLED displays and faster Thunderbolt 5 connectivity options across the Pro lineup."
+        "TSA staffing levels have dropped significantly due to the ongoing DHS shutdown.",
+        "Major hubs like JFK, LAX, and Chicago O'Hare report security wait times exceeding 4 hours.",
+        "Airlines are advising passengers to arrive at least 5 hours before domestic departures."
+      ],
+      "media_stack": [
+        "https://storage.googleapis.com/uploads.mongoosehq.com/url/media/111694787/ccf38eda3dee32b499fb7c124b6f1fc1e8999cc29e719a65a8ff4a54052b3ab0"
       ],
       "source_articles": [
-         {"name": "The Verge", "logo_url": "https://particle.news/logos/theverge.png"},
-         {"name": "TechCrunch", "logo_url": "https://particle.news/logos/techcrunch.png"}
+        {"name": "USA Today", "logo_url": "https://storage.googleapis.com/uploads.mongoosehq.com/publication-icons/USA-Today-Logo.jpg"},
+        {"name": "AP News", "logo_url": "https://apnews.com/apple-touch-icon.png"}
       ],
-      "why_it_matters": "Apple's sustained lead in custom silicon continues to force competitors to accelerate their own mobile and desktop processor roadmaps."
+      "why_it_matters": "The travel disruption impacts hundreds of thousands of passengers daily and raises broader questions about national security funding."
+    }
+  },
+  {
+    "slug": "kansas-city-international-reopens-after-reported-threat-investigated",
+    "title": "Kansas City International Reopens After Reported Threat Investigated",
+    "summary": "Normal operations have resumed at MCI after a security threat was thoroughly investigated by local and federal authorities.",
+    "category": "Local News",
+    "image_url": "https://storage.googleapis.com/uploads.mongoosehq.com/url/media/111296007/3e655aa991d4f1155e4dd645de1980620b45344d44b141a77d329d7c62fd02d3",
+    "article_count": "10 ARTICLES",
+    "content": {
+      "key_takeaways": [
+        "MCI was temporarily evacuated following a reported threat this morning.",
+        "Authorities found no credible danger after a sweeping search of the terminals.",
+        "Flight schedules are slowly returning to normal, though delays are expected throughout the day."
+      ],
+      "media_stack": [
+        "https://storage.googleapis.com/uploads.mongoosehq.com/url/media/111296007/3e655aa991d4f1155e4dd645de1980620b45344d44b141a77d329d7c62fd02d3"
+      ],
+      "source_articles": [
+        {"name": "Daily Beast", "logo_url": "https://storage.googleapis.com/uploads.mongoosehq.com/publication-icons/daily-beast-logo.png"},
+        {"name": "Independent", "logo_url": "https://www.independent.co.uk/img/shortcut-icons/icon-512x512.png"}
+      ],
+      "why_it_matters": "Rapid response to airport threats remains critical, though frequent evacuations continue to challenge logistical operations."
+    }
+  },
+  {
+    "slug": "new-video-ties-u-s-tomahawk-to-strike-near-iranian-girls-school",
+    "title": "New Video Ties U.S. Tomahawk to Strike Near Iranian Girls' School",
+    "summary": "Verified footage appears to show fragments of a U.S.-made missile at the site of a strike that occurred near an educational facility in Iran.",
+    "category": "International",
+    "image_url": "https://storage.googleapis.com/uploads.mongoosehq.com/url/media/111626563/47be1ef02d20d50781d5cca3ca2902e928f0855d8df20b9d7d263fbf524aa3ac",
+    "article_count": "45 ARTICLES",
+    "content": {
+      "key_takeaways": [
+        "Video evidence suggests a Tomahawk missile was used in a strike near a girls' school in Iran.",
+        "The Pentagon has not yet commented on the specific equipment used in the operation.",
+        "International human rights groups are calling for an immediate investigation into the target selection."
+      ],
+      "media_stack": [
+        "https://storage.googleapis.com/uploads.mongoosehq.com/url/media/111626563/47be1ef02d20d50781d5cca3ca2902e928f0855d8df20b9d7d263fbf524aa3ac"
+      ],
+      "source_articles": [
+        {"name": "NBC", "logo_url": "https://storage.googleapis.com/uploads.mongoosehq.com/publication-icons/nbc-logo.png"},
+        {"name": "CNN", "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/2048px-CNN_International_logo.svg.png"}
+      ],
+      "why_it_matters": "The use of precision weapons in civilian areas continues to be a point of intense diplomatic friction and humanitarian concern."
     }
   }
 ]
