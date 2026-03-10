@@ -1,4 +1,7 @@
+import Link from "next/link";
+
 interface NewsCardProps {
+  slug?: string;
   title: string;
   summary: string;
   image: string;
@@ -9,6 +12,7 @@ interface NewsCardProps {
 }
 
 export default function NewsCard({
+  slug,
   title,
   summary,
   image,
@@ -18,8 +22,9 @@ export default function NewsCard({
   className = "",
 }: NewsCardProps) {
   return (
-    <div
-      className={`relative group overflow-hidden rounded-[32px] cursor-pointer shadow-sm hover:shadow-xl transition-all duration-500 bg-white ${className}`}
+    <Link
+      href={`/story/${slug || "#"}`}
+      className={`relative group block overflow-hidden rounded-[32px] cursor-pointer shadow-sm hover:shadow-xl transition-all duration-500 bg-white ${className}`}
       style={{ "--accent-color": color } as any}
     >
       <div className="aspect-[16/10] overflow-hidden">
@@ -54,6 +59,6 @@ export default function NewsCard({
           {summary}
         </p>
       </div>
-    </div>
+    </Link>
   );
 }
