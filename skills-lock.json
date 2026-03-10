@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "social-content": {
+      "source": "bentinson-contentology/marketingskills",
+      "sourceType": "github",
+      "computedHash": "aaffbb6e301984ac94feb67f4eae29ad1936ecd1992e97db59dd03528ef20fd8"
+    }
+  }
+}
